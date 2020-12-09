@@ -1,6 +1,5 @@
 ### नमस्ते, I'm Swapnil 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/swapnil_1_618?label=swapnil_1_618&style=social)](https://img.shields.io/twitter/url?label=swapnil_1_618&style=social&url=https%3A%2F%2Ftwitter.com%2Fswapnil_1_618)
 
 - 🔭 I’m currently working on Machine Learning Project...
 - 🌱 I’m currently learning Deep Learning...
