@@ -1,7 +1,5 @@
 ### नमस्ते, I'm Swapnil 👋
 
-<!--
-**swapnilbhange/swapnilbhange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Machine Learning Project...
 - 🌱 I’m currently learning Deep Learning...
@@ -11,4 +9,4 @@
 - 📫 How to reach me: Twitter - @swapnil_1_618
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Teaching Machines "Hows to Think"...
--->
+
