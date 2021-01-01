@@ -1,6 +1,6 @@
 ### नमस्ते, I'm Swapnil 👋
 
-I'm Swapnil Bhange, a Data Science and Machine Learning Practitioner and Learner. I'm here to Learn a lot in the Process...
+I'm Swapnil Bhange, a Data Science and Machine Learning Practitioner and Learner. I'm here to Learn by solving things...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbhange&label=Views&color=blue&style=plastic" alt="swapnilbhange" /> </p>
 
