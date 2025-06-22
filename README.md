@@ -4,9 +4,8 @@ I'm a **Data Science and Machine Learning Practitioner** who believes in *learni
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=swapnilbhange&label=Profile Views&color=0e75b6&style=flat" alt="swapnilbhange" />
-</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbhange&label=Views&color=blue&style=plastic" alt="swapnilbhange" /> </p>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/swapnil_1_618)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-bhange-92711612b/)
