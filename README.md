@@ -39,8 +39,8 @@ I'm a **Data Science and Machine Learning Practitioner** who believes in *learni
 
 ## 💬 Ask Me About
 
+- Business Analyst, Data Analyst 
 - Python, Machine Learning, Deep Learning  
-- Exploratory Data Analysis (EDA)  
 - Data Engineering and Automation
 
 ---
