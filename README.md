@@ -1,9 +1,7 @@
 # 🙏 नमस्ते, I'm Swapnil Bhange 👋
 
 I'm a **Data Science and Machine Learning Practitioner** who believes in *learning by doing*. I enjoy solving real-world problems through data-driven solutions and continuously strive to grow in the field of AI and analytics.
-
 ---
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbhange&label=Views&color=blue&style=plastic" alt="swapnilbhange" /> </p>
 
@@ -13,13 +11,11 @@ I'm a **Data Science and Machine Learning Practitioner** who believes in *learni
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@swapnilbhange98)
 
 ---
-
 ## 🚀 What I’m Working On
 
 - 📈 `66-Days-Of-Data` – Daily hands-on data science practice  
 - 🤖 Deep Learning Projects – Including CNNs, ResNet, and more  
 - 🛠️ Building end-to-end ML projects for portfolio
-
 ---
 
 ## 🌱 Currently Learning
@@ -28,7 +24,6 @@ I'm a **Data Science and Machine Learning Practitioner** who believes in *learni
 - Model Deployment & MLOps (FastAPI, Docker, GCP)
 
 ---
-
 ## 🤝 Looking to Collaborate On
 
 - YouTube content creation around ML  
@@ -36,7 +31,6 @@ I'm a **Data Science and Machine Learning Practitioner** who believes in *learni
 - Applied AI challenges (Kaggle, Hackathons)
 
 ---
-
 ## 💬 Ask Me About
 
 - Business Analyst, Data Analyst 
@@ -44,7 +38,6 @@ I'm a **Data Science and Machine Learning Practitioner** who believes in *learni
 - Data Engineering and Automation
 
 ---
-
 ## 📫 Let’s Connect
 
 - [Twitter](https://twitter.com/swapnil_1_618)  
@@ -53,7 +46,6 @@ I'm a **Data Science and Machine Learning Practitioner** who believes in *learni
 - [Medium](https://medium.com/@swapnilbhange98)
 
 ---
-
 ## 📊 GitHub Stats
 
 <a href="https://github.com/swapnilbhange">
@@ -64,7 +56,6 @@ I'm a **Data Science and Machine Learning Practitioner** who believes in *learni
 </a>
 
 ---
-
 ## ⚡ Fun Fact
 
 I'm teaching machines how to think – one model at a time.
